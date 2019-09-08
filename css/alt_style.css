@@ -1,0 +1,312 @@
+#AgroKingsnav
+{
+  width: 138px;
+  height: 30px;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+#navigationitems 
+{
+  height: 18px;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+#AgroKingsnav_alt
+{
+  width: 138px;
+  height: 30px;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #FFFFFF;
+}
+#navigationitems_alt
+{
+  height: 18px;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #FFFFFF;
+}
+
+#quote
+{
+  font-family: Montserrat;
+  font-size: 30px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+#quote-author
+{
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+#values {
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+#background-image
+{
+position: absolute;
+width: 100%;
+max-width: 100%;
+display: block;
+height: 277px;
+left: 0px;
+top: 0px;
+}
+
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background: url("background.png")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/* Agro Kings */
+#agro-kings-large
+{
+font-family: Montserrat;
+font-style: normal;
+font-size: 64px;
+font-weight: 900;
+line-height: normal;
+font-stretch: normal;
+letter-spacing: normal;
+color: #FFFFFF;
+}
+
+/* Bringing agriculture to every household */
+#slogan
+{
+font-family: Montserrat;
+font-style: normal;
+font-stretch: normal;
+line-height: normal;
+letter-spacing: normal;
+font-weight: 500;
+font-size: 24px;
+color: #FFFFFF;
+}
+
+#Our-Products 
+{
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 800;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+#about
+{
+font-family: Montserrat;
+font-size: 18px;
+font-weight: 700;
+font-style: normal;
+font-stretch: normal;
+line-height: normal;
+letter-spacing: normal;
+color: #000000;
+}
+
+#aboutctd
+{
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 700;
+font-style: normal;
+font-stretch: normal;
+line-height: normal;
+letter-spacing: normal;
+color: #000000;
+}
+
+#page-heading {
+font-family: Montserrat;
+font-size: 30px;
+font-weight: bold;
+font-style: normal;
+font-stretch: normal;
+line-height: normal;
+letter-spacing: normal;
+color: #000000;
+}
+
+#product-text
+{
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 700;
+font-style: normal;
+font-stretch: normal;
+line-height: normal;
+letter-spacing: normal;
+color: #000000;
+}
+#issues-header 
+{
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+#kingsfarms-what
+{
+  font-family: Montserrat;
+  font-size: 25px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #044502;
+}
+
+#issues-list 
+{
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 700;
+font-style: normal;
+font-stretch: normal;
+line-height: normal;
+letter-spacing: normal;
+color: #000000;
+}
+
+
+.INTEGRITY 
+{
+position:absolute;
+width: 132px;
+height: 30px;
+top:300px;
+font-family: Montserrat;
+font-size: 24px;
+font-weight: 600;
+font-style: normal;
+font-stretch: normal;
+line-height: normal;
+letter-spacing: normal;
+color: #000000;
+}
+
+
+.INNOVATION {
+position:absolute;
+width: 162px;
+height: 30px;
+top:300px;
+font-family: Montserrat;
+font-size: 24px;
+font-weight: 600;
+font-style: normal;
+font-stretch: normal;
+line-height: normal;
+letter-spacing: normal;
+color: #000000;
+}
+
+
+.INCLUSION 
+{
+position:absolute;
+width: 140px;
+height: 30px;
+top:300px;
+font-family: Montserrat;
+font-size: 24px;
+font-weight: 600;
+font-style: normal;
+font-stretch: normal;
+line-height: normal;
+letter-spacing: normal;
+color: #000000;
+}
+
+
+.INVESTMENT 
+{
+position:absolute;
+width: 163px;
+height: 30px;
+top:300px;
+font-family: Montserrat;
+font-size: 24px;
+font-weight: 600;
+font-style: normal;
+font-stretch: normal;
+line-height: normal;
+letter-spacing: normal;
+color: #000000;
+}
+
+#socialmedia 
+{
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 800;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+}
+
